@@ -1,0 +1,129 @@
+#logoedu{
+    width: 150px;
+    height: 50px;
+    margin-right: 600px;
+}
+.fld1{
+    background-image: url(./img/jb1.jpeg);
+    background-size: cover;
+    min-height: 700px;
+}
+.nav1{
+    padding-top: 60px;
+}
+.a1, .a2, .a3{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+.a3{
+    margin-right: 100px;
+}
+#tulisan1{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    padding-top: 50px;
+}
+.w{
+    padding-top: 5px;
+    background-color: black;
+    width: 400px;
+}
+#tulisan2{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    padding-top: 20px;
+}
+.btn1{
+    margin-top: 10px;
+}
+.fld2{
+    background-image: url(./img/bg3.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+.rw2-1{
+    padding-top: 80px;
+}
+#tln2-1{
+    font-size: 40px;
+    padding-left: 80px;
+}
+#gmr2-1{
+    width: 200px;
+    height: 200px;
+    
+}
+.cot:hover{
+    transition: transform 0.3s;
+    transform: scale(1.2);
+}
+.cpy:hover{
+    transition: transform 2s;
+    transform: rotate(360deg);
+}
+#tln2-2{
+    text-align: center;
+}
+.fld3{
+    background-image: url(./img/bg1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+#gmr3-1{
+    width: 200px;
+    height: 200px;
+    margin-top: 300px;
+}
+#tln3-1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5px;
+}
+.fld4{
+    height: 80px;
+    background-color: cornflowerblue;
+}
+#tln4-1{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.w1{
+    padding: 10px;
+    background-color: black;
+    width: 20px;
+    border-radius: 30px;
+}
+.w2{
+    padding: 10px;
+    background-color: black;
+    width: 20px;
+    border-radius: 30px;
+}
+.w3{
+    padding: 10px;
+    background-color: black;
+    width: 20px;
+    border-radius: 30px;
+}
+#buletan{
+    margin-left: 1300px;
+    padding: 0;
+    width: 80px;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    margin-top: 200px;
+}
+.w1:hover{
+    background-color: crimson;
+}
+.w2:hover{
+    background-color: crimson;
+}
+.w3:hover{
+    background-color: crimson;
+}
